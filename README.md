@@ -19,8 +19,8 @@ Este repositorio contiene *blueprints* (archivos `.json`) exportados desde [Make
 - Guarda un registro del envío en Google Sheets.
 - Almacena los archivos enviados en Google Drive.
 
-### 3. `03_Enviar_Emails_con_Google_Sheets_y_Gmail.json`
-- Flujo simple para enviar correos desde Google Sheets usando Gmail.
+### 3. `03_Enviar_Emails_con_Data_Store_y_Gmail.json`
+- Enviar correos electronicos tomadas de un data store y actualizar el campo estado para para saber que el correo fue entregado.
 
 ### 4. `04_Extraer_Datos_de_Sheets_a_Data_Store.json`
 - Toma datos de Google Sheets y los guarda en un Data Store de Make.

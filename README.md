@@ -52,5 +52,5 @@ Este repositorio contiene *blueprints* (archivos `.json`) exportados desde [Make
 
 ## 📬 Contacto
 
-¿Quieres saber más sobre estos proyectos?  
-Conecta conmigo en [LinkedIn](https://www.linkedin.com/in/rodrigoalonso-quezadaccahuana)
+Gracias por revisar mis proyectos. Para más información, puedes contactarme a través de mi LinkedIn:  
+[LinkedIn](https://www.linkedin.com/in/rodrigoalonso-quezadaccahuana)
